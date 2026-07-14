@@ -51,7 +51,7 @@ Dataset: [Alzheimer MRI Dataset on Kaggle](https://www.kaggle.com/datasets/mohib
                  --labels=$DATASET/labels.txt \
                  $DATASET/test/Very_Mild_Demented/verymild_12.jpg test.jpg
     ```
-13. Feel free to test on other images in the same format, results are printed at the end of the command.
+13. Feel free to test on other images in the same format, results are printed at the end of the command, It is better to train it with more epochs, even mroe than 35, you can do this by editing train.py and you should get better results.
 
 14. After the test in step 12 it should look like this.
 ![Screenshot](https://raw.githubusercontent.com/GregorTV7/alzheimers-mri/main/screenshot.png)
