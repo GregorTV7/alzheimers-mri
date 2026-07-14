@@ -53,6 +53,9 @@ Dataset: [Alzheimer MRI Dataset on Kaggle](https://www.kaggle.com/datasets/mohib
     ```
 13. Feel free to test on other images in the same format, results are printed at the end of the command.
 
+14. After the test in step 12 it should look like this.
+![Screenshot](https://raw.githubusercontent.com/GregorTV7/alzheimers-mri/main/screenshot.png)
+
 ## Acknowledgments
 
 Dataset provided by [Mohibur Rahman Rifat](https://www.kaggle.com/mohiburrahmanrifat) on Kaggle:
