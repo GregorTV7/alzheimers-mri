@@ -52,3 +52,8 @@ Dataset: [Alzheimer MRI Dataset on Kaggle](https://www.kaggle.com/datasets/mohib
                  $DATASET/test/Very_Mild_Demented/verymild_12.jpg test.jpg
     ```
 13. Feel free to test on other images in the same format — results are printed at the end of the command.
+
+## Acknowledgments
+
+Dataset provided by [Mohibur Rahman Rifat](https://www.kaggle.com/mohiburrahmanrifat) on Kaggle:
+[Alzheimer MRI Dataset](https://www.kaggle.com/datasets/mohiburrahmanrifat/alzheimer)
