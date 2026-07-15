@@ -59,9 +59,9 @@ Dataset: [Alzheimer MRI Dataset on Kaggle](https://www.kaggle.com/datasets/mohib
 
 ![Screenshot](https://raw.githubusercontent.com/GregorTV7/alzheimers-mri/main/screenshot.png)
 
-## Purpose & Demonstration
+## Purpose & Demonstration Video
 
-[![Purpose and Demonstration](https://raw.githubusercontent.com/your-username/your-repo/main/path-to-thumbnail.png)](https://drive.google.com/file/d/1zB4pneeE9ofaDWzEmLfmvqqivpqZQDSL/view?usp=sharing)
+[![demonstration.mp4](https://raw.githubusercontent.com/your-username/your-repo/main/path-to-thumbnail.png)](https://drive.google.com/file/d/1zB4pneeE9ofaDWzEmLfmvqqivpqZQDSL/view?usp=sharing)
 
 ## Acknowledgments
 
